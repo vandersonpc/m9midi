@@ -1,0 +1,282 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.4	//
+ADCON0	C:\Program Files\SourceBoost\Include\pic12F675.h	37;"	d
+ADCS0	C:\Program Files\SourceBoost\Include\pic12F675.h	185;"	d
+ADCS1	C:\Program Files\SourceBoost\Include\pic12F675.h	184;"	d
+ADCS2	C:\Program Files\SourceBoost\Include\pic12F675.h	183;"	d
+ADFM	C:\Program Files\SourceBoost\Include\pic12F675.h	114;"	d
+ADIE	C:\Program Files\SourceBoost\Include\pic12F675.h	135;"	d
+ADIF	C:\Program Files\SourceBoost\Include\pic12F675.h	91;"	d
+ADON	C:\Program Files\SourceBoost\Include\pic12F675.h	121;"	d
+ADRESH	C:\Program Files\SourceBoost\Include\pic12F675.h	36;"	d
+ADRESL	C:\Program Files\SourceBoost\Include\pic12F675.h	52;"	d
+ANS0	C:\Program Files\SourceBoost\Include\pic12F675.h	189;"	d
+ANS1	C:\Program Files\SourceBoost\Include\pic12F675.h	188;"	d
+ANS2	C:\Program Files\SourceBoost\Include\pic12F675.h	187;"	d
+ANS3	C:\Program Files\SourceBoost\Include\pic12F675.h	186;"	d
+ANSEL	C:\Program Files\SourceBoost\Include\pic12F675.h	53;"	d
+BAUD_RATE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	137;"	d	file:
+BTN_A	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	111;"	v
+BTN_B	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	110;"	v
+BTN_SEL	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	109;"	v
+BYPASS	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	156;"	d	file:
+BitDelay	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	285;"	f
+C	C:\Program Files\SourceBoost\Include\pic12F675.h	63;"	d
+CAL0	C:\Program Files\SourceBoost\Include\pic12F675.h	150;"	d
+CAL1	C:\Program Files\SourceBoost\Include\pic12F675.h	149;"	d
+CAL2	C:\Program Files\SourceBoost\Include\pic12F675.h	148;"	d
+CAL3	C:\Program Files\SourceBoost\Include\pic12F675.h	147;"	d
+CAL4	C:\Program Files\SourceBoost\Include\pic12F675.h	146;"	d
+CAL5	C:\Program Files\SourceBoost\Include\pic12F675.h	145;"	d
+CHS0	C:\Program Files\SourceBoost\Include\pic12F675.h	117;"	d
+CHS1	C:\Program Files\SourceBoost\Include\pic12F675.h	116;"	d
+CINV	C:\Program Files\SourceBoost\Include\pic12F675.h	107;"	d
+CIS	C:\Program Files\SourceBoost\Include\pic12F675.h	108;"	d
+CM0	C:\Program Files\SourceBoost\Include\pic12F675.h	111;"	d
+CM1	C:\Program Files\SourceBoost\Include\pic12F675.h	110;"	d
+CM2	C:\Program Files\SourceBoost\Include\pic12F675.h	109;"	d
+CMCON	C:\Program Files\SourceBoost\Include\pic12F675.h	35;"	d
+CMIE	C:\Program Files\SourceBoost\Include\pic12F675.h	136;"	d
+CMIF	C:\Program Files\SourceBoost\Include\pic12F675.h	92;"	d
+CONTROL_CHANGE_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	144;"	d	file:
+COUT	C:\Program Files\SourceBoost\Include\pic12F675.h	106;"	d
+DC	C:\Program Files\SourceBoost\Include\pic12F675.h	62;"	d
+Day	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	58;"	d	file:
+EEADR	C:\Program Files\SourceBoost\Include\pic12F675.h	49;"	d
+EECON1	C:\Program Files\SourceBoost\Include\pic12F675.h	50;"	d
+EECON2	C:\Program Files\SourceBoost\Include\pic12F675.h	51;"	d
+EEDAT	C:\Program Files\SourceBoost\Include\pic12F675.h	48;"	d
+EEDATA	C:\Program Files\SourceBoost\Include\pic12F675.h	47;"	d
+EEIE	C:\Program Files\SourceBoost\Include\pic12F675.h	134;"	d
+EEIF	C:\Program Files\SourceBoost\Include\pic12F675.h	90;"	d
+EEPROM_READ	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	199;"	f
+EEPROM_WRITE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	182;"	f
+EE_Time	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	99;"	d	file:
+EN_LOOP	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	84;"	v
+F	C:\Program Files\SourceBoost\Include\pic12F675.h	20;"	d
+F1_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	93;"	d	file:
+F2_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	94;"	d	file:
+F3_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	95;"	d	file:
+F4_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	96;"	d	file:
+FLDR1	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	115;"	d	file:
+FLDR2	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	116;"	d	file:
+FLDR3	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	117;"	d	file:
+FLDR4	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	118;"	d	file:
+FOLDER1	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	149;"	v
+FOLDER2	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	150;"	v
+FOLDER3	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	151;"	v
+FOLDER4	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	152;"	v
+FSR	C:\Program Files\SourceBoost\Include\pic12F675.h	27;"	d
+GIE	C:\Program Files\SourceBoost\Include\pic12F675.h	80;"	d
+GO	C:\Program Files\SourceBoost\Include\pic12F675.h	118;"	d
+GO_DONE	C:\Program Files\SourceBoost\Include\pic12F675.h	120;"	d
+GP0	C:\Program Files\SourceBoost\Include\pic12F675.h	76;"	d
+GP1	C:\Program Files\SourceBoost\Include\pic12F675.h	74;"	d
+GP2	C:\Program Files\SourceBoost\Include\pic12F675.h	72;"	d
+GP3	C:\Program Files\SourceBoost\Include\pic12F675.h	70;"	d
+GP4	C:\Program Files\SourceBoost\Include\pic12F675.h	68;"	d
+GP5	C:\Program Files\SourceBoost\Include\pic12F675.h	66;"	d
+GPIE	C:\Program Files\SourceBoost\Include\pic12F675.h	84;"	d
+GPIF	C:\Program Files\SourceBoost\Include\pic12F675.h	87;"	d
+GPIO	C:\Program Files\SourceBoost\Include\pic12F675.h	28;"	d
+GPIO0	C:\Program Files\SourceBoost\Include\pic12F675.h	77;"	d
+GPIO1	C:\Program Files\SourceBoost\Include\pic12F675.h	75;"	d
+GPIO2	C:\Program Files\SourceBoost\Include\pic12F675.h	73;"	d
+GPIO3	C:\Program Files\SourceBoost\Include\pic12F675.h	71;"	d
+GPIO4	C:\Program Files\SourceBoost\Include\pic12F675.h	69;"	d
+GPIO5	C:\Program Files\SourceBoost\Include\pic12F675.h	67;"	d
+HIBYTE	C:\Program Files\SourceBoost\Include\boostc.h	47;"	d
+INDF	C:\Program Files\SourceBoost\Include\pic12F675.h	23;"	d
+INTCON	C:\Program Files\SourceBoost\Include\pic12F675.h	30;"	d
+INTE	C:\Program Files\SourceBoost\Include\pic12F675.h	83;"	d
+INTEDG	C:\Program Files\SourceBoost\Include\pic12F675.h	125;"	d
+INTF	C:\Program Files\SourceBoost\Include\pic12F675.h	86;"	d
+IOC	C:\Program Files\SourceBoost\Include\pic12F675.h	44;"	d
+IOC0	C:\Program Files\SourceBoost\Include\pic12F675.h	166;"	d
+IOC1	C:\Program Files\SourceBoost\Include\pic12F675.h	165;"	d
+IOC2	C:\Program Files\SourceBoost\Include\pic12F675.h	164;"	d
+IOC3	C:\Program Files\SourceBoost\Include\pic12F675.h	163;"	d
+IOC4	C:\Program Files\SourceBoost\Include\pic12F675.h	162;"	d
+IOC5	C:\Program Files\SourceBoost\Include\pic12F675.h	161;"	d
+IOCB	C:\Program Files\SourceBoost\Include\pic12F675.h	45;"	d
+IOCB0	C:\Program Files\SourceBoost\Include\pic12F675.h	158;"	d
+IOCB1	C:\Program Files\SourceBoost\Include\pic12F675.h	157;"	d
+IOCB2	C:\Program Files\SourceBoost\Include\pic12F675.h	156;"	d
+IOCB3	C:\Program Files\SourceBoost\Include\pic12F675.h	155;"	d
+IOCB4	C:\Program Files\SourceBoost\Include\pic12F675.h	154;"	d
+IOCB5	C:\Program Files\SourceBoost\Include\pic12F675.h	153;"	d
+IRP	C:\Program Files\SourceBoost\Include\pic12F675.h	56;"	d
+KeyCheck	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	392;"	f
+LED	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	78;"	v
+LED_DLY	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	175;"	d	file:
+LED_Test	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	624;"	f
+LEDa	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	173;"	d	file:
+LEDb	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	174;"	d	file:
+LEN_ADDR	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	97;"	d	file:
+LOBYTE	C:\Program Files\SourceBoost\Include\boostc.h	40;"	d
+LOOP	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	120;"	d	file:
+L_CTRL	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	159;"	d	file:
+L_Play_Stop	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	160;"	d	file:
+L_Rec_Over	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	161;"	d	file:
+MAKESHORT	C:\Program Files\SourceBoost\Include\boostc.h	33;"	d
+MIDI_CHANNEL	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	141;"	d	file:
+MIDI_CONTROL_CHANGE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	142;"	d	file:
+MIDI_DATA_MASK	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	140;"	d	file:
+MIDI_PROGRAM_CHANGE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	143;"	d	file:
+MODE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	79;"	v
+Mouth	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	59;"	d	file:
+NOT_BOD	C:\Program Files\SourceBoost\Include\pic12F675.h	142;"	d
+NOT_DONE	C:\Program Files\SourceBoost\Include\pic12F675.h	119;"	d
+NOT_GPPU	C:\Program Files\SourceBoost\Include\pic12F675.h	124;"	d
+NOT_PD	C:\Program Files\SourceBoost\Include\pic12F675.h	60;"	d
+NOT_POR	C:\Program Files\SourceBoost\Include\pic12F675.h	141;"	d
+NOT_T1SYNC	C:\Program Files\SourceBoost\Include\pic12F675.h	101;"	d
+NOT_TO	C:\Program Files\SourceBoost\Include\pic12F675.h	59;"	d
+NULL	C:\Program Files\SourceBoost\Include\boostc.h	18;"	d
+OPTION_REG	C:\Program Files\SourceBoost\Include\pic12F675.h	38;"	d
+OSCCAL	C:\Program Files\SourceBoost\Include\pic12F675.h	42;"	d
+Overdub	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	166;"	d	file:
+PCL	C:\Program Files\SourceBoost\Include\pic12F675.h	25;"	d
+PCLATH	C:\Program Files\SourceBoost\Include\pic12F675.h	29;"	d
+PCON	C:\Program Files\SourceBoost\Include\pic12F675.h	41;"	d
+PEIE	C:\Program Files\SourceBoost\Include\pic12F675.h	81;"	d
+PIE1	C:\Program Files\SourceBoost\Include\pic12F675.h	40;"	d
+PIR1	C:\Program Files\SourceBoost\Include\pic12F675.h	31;"	d
+PS0	C:\Program Files\SourceBoost\Include\pic12F675.h	131;"	d
+PS1	C:\Program Files\SourceBoost\Include\pic12F675.h	130;"	d
+PS2	C:\Program Files\SourceBoost\Include\pic12F675.h	129;"	d
+PSA	C:\Program Files\SourceBoost\Include\pic12F675.h	128;"	d
+Play	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	163;"	d	file:
+RD	C:\Program Files\SourceBoost\Include\pic12F675.h	180;"	d
+RESET_EE	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	218;"	f
+RP0	C:\Program Files\SourceBoost\Include\pic12F675.h	58;"	d
+RP1	C:\Program Files\SourceBoost\Include\pic12F675.h	57;"	d
+Record	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	165;"	d	file:
+SCENES	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	154;"	d	file:
+SETUP	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	119;"	d	file:
+SR_CLOCK	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	104;"	v
+SR_DATAo	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	103;"	v
+STATUS	C:\Program Files\SourceBoost\Include\pic12F675.h	26;"	d
+SendChar	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	304;"	f
+SendMidiCC	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	381;"	f
+SendMidiPC	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	370;"	f
+Stop	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	164;"	d	file:
+T0CS	C:\Program Files\SourceBoost\Include\pic12F675.h	126;"	d
+T0IE	C:\Program Files\SourceBoost\Include\pic12F675.h	82;"	d
+T0IF	C:\Program Files\SourceBoost\Include\pic12F675.h	85;"	d
+T0SE	C:\Program Files\SourceBoost\Include\pic12F675.h	127;"	d
+T1CKPS0	C:\Program Files\SourceBoost\Include\pic12F675.h	99;"	d
+T1CKPS1	C:\Program Files\SourceBoost\Include\pic12F675.h	98;"	d
+T1CON	C:\Program Files\SourceBoost\Include\pic12F675.h	34;"	d
+T1IE	C:\Program Files\SourceBoost\Include\pic12F675.h	137;"	d
+T1IF	C:\Program Files\SourceBoost\Include\pic12F675.h	93;"	d
+T1OSCEN	C:\Program Files\SourceBoost\Include\pic12F675.h	100;"	d
+TMR0	C:\Program Files\SourceBoost\Include\pic12F675.h	24;"	d
+TMR1CS	C:\Program Files\SourceBoost\Include\pic12F675.h	102;"	d
+TMR1GE	C:\Program Files\SourceBoost\Include\pic12F675.h	97;"	d
+TMR1H	C:\Program Files\SourceBoost\Include\pic12F675.h	33;"	d
+TMR1IE	C:\Program Files\SourceBoost\Include\pic12F675.h	138;"	d
+TMR1IF	C:\Program Files\SourceBoost\Include\pic12F675.h	94;"	d
+TMR1L	C:\Program Files\SourceBoost\Include\pic12F675.h	32;"	d
+TMR1ON	C:\Program Files\SourceBoost\Include\pic12F675.h	103;"	d
+TRISIO	C:\Program Files\SourceBoost\Include\pic12F675.h	39;"	d
+TURNER	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	157;"	d	file:
+TX_PIN	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	138;"	d	file:
+VCFG	C:\Program Files\SourceBoost\Include\pic12F675.h	115;"	d
+VR0	C:\Program Files\SourceBoost\Include\pic12F675.h	174;"	d
+VR1	C:\Program Files\SourceBoost\Include\pic12F675.h	173;"	d
+VR2	C:\Program Files\SourceBoost\Include\pic12F675.h	172;"	d
+VR3	C:\Program Files\SourceBoost\Include\pic12F675.h	171;"	d
+VRCON	C:\Program Files\SourceBoost\Include\pic12F675.h	46;"	d
+VREN	C:\Program Files\SourceBoost\Include\pic12F675.h	169;"	d
+VRR	C:\Program Files\SourceBoost\Include\pic12F675.h	170;"	d
+Version	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	57;"	d	file:
+W	C:\Program Files\SourceBoost\Include\pic12F675.h	19;"	d
+WPU	C:\Program Files\SourceBoost\Include\pic12F675.h	43;"	d
+WR	C:\Program Files\SourceBoost\Include\pic12F675.h	179;"	d
+WREN	C:\Program Files\SourceBoost\Include\pic12F675.h	178;"	d
+WRERR	C:\Program Files\SourceBoost\Include\pic12F675.h	177;"	d
+Year	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	60;"	d	file:
+Z	C:\Program Files\SourceBoost\Include\pic12F675.h	61;"	d
+_BODEN_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	202;"	d
+_BODEN_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	201;"	d
+_BOOSTC_H_	C:\Program Files\SourceBoost\Include\boostc.h	14;"	d
+_CONFIG	C:\Program Files\SourceBoost\Include\pic12F675.h	221;"	d
+_CPD_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	198;"	d
+_CPD_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	197;"	d
+_CP_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	200;"	d
+_CP_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	199;"	d
+_EC_OSC	C:\Program Files\SourceBoost\Include\pic12F675.h	212;"	d
+_EEPROM	C:\Program Files\SourceBoost\Include\pic12F675.h	228;"	d
+_EXTRC_OSC_CLKOUT	C:\Program Files\SourceBoost\Include\pic12F675.h	216;"	d
+_EXTRC_OSC_NOCLKOUT	C:\Program Files\SourceBoost\Include\pic12F675.h	215;"	d
+_HS_OSC	C:\Program Files\SourceBoost\Include\pic12F675.h	211;"	d
+_INTRC_OSC_CLKOUT	C:\Program Files\SourceBoost\Include\pic12F675.h	214;"	d
+_INTRC_OSC_NOCLKOUT	C:\Program Files\SourceBoost\Include\pic12F675.h	213;"	d
+_LP_OSC	C:\Program Files\SourceBoost\Include\pic12F675.h	209;"	d
+_MCLRE_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	204;"	d
+_MCLRE_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	203;"	d
+_PIC12F675_H_	C:\Program Files\SourceBoost\Include\pic12F675.h	11;"	d
+_PWRTE_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	205;"	d
+_PWRTE_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	206;"	d
+_SYSTEM_H_	C:\Program Files\SourceBoost\Include\system.h	10;"	d
+_WDT_OFF	C:\Program Files\SourceBoost\Include\pic12F675.h	208;"	d
+_WDT_ON	C:\Program Files\SourceBoost\Include\pic12F675.h	207;"	d
+_XT_OSC	C:\Program Files\SourceBoost\Include\pic12F675.h	210;"	d
+abs	C:\Program Files\SourceBoost\Include\boostc.h	29;"	d
+adcon0	C:\Program Files\SourceBoost\Include\pic12F675.h	244;"	v
+adresh	C:\Program Files\SourceBoost\Include\pic12F675.h	243;"	v
+adresl	C:\Program Files\SourceBoost\Include\pic12F675.h	258;"	v
+ansel	C:\Program Files\SourceBoost\Include\pic12F675.h	259;"	v
+bLED	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	172;"	d	file:
+buttons	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	80;"	v
+clear_bit	C:\Program Files\SourceBoost\Include\boostc.h	22;"	d
+clear_wdt	C:\Program Files\SourceBoost\Include\boostc.h	67;"	f
+cmcon	C:\Program Files\SourceBoost\Include\pic12F675.h	242;"	v
+display	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	260;"	f
+ecnt	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	82;"	v
+eeadr	C:\Program Files\SourceBoost\Include\pic12F675.h	255;"	v
+eecon1	C:\Program Files\SourceBoost\Include\pic12F675.h	256;"	v
+eecon2	C:\Program Files\SourceBoost\Include\pic12F675.h	257;"	v
+eedata	C:\Program Files\SourceBoost\Include\pic12F675.h	254;"	v
+fsr	C:\Program Files\SourceBoost\Include\pic12F675.h	234;"	v
+gLED	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	171;"	d	file:
+gpio	C:\Program Files\SourceBoost\Include\pic12F675.h	235;"	v
+indf	C:\Program Files\SourceBoost\Include\pic12F675.h	230;"	v
+init	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	269;"	f
+intcon	C:\Program Files\SourceBoost\Include\pic12F675.h	237;"	v
+interrupt	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	609;"	f
+ioc	C:\Program Files\SourceBoost\Include\pic12F675.h	251;"	v
+iocb	C:\Program Files\SourceBoost\Include\pic12F675.h	252;"	v
+is_LOOP	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	85;"	v
+main	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	671;"	f
+nop	C:\Program Files\SourceBoost\Include\boostc.h	62;"	f
+opt	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	83;"	v
+option_reg	C:\Program Files\SourceBoost\Include\pic12F675.h	245;"	v
+osccal	C:\Program Files\SourceBoost\Include\pic12F675.h	249;"	v
+pcl	C:\Program Files\SourceBoost\Include\pic12F675.h	232;"	v
+pclath	C:\Program Files\SourceBoost\Include\pic12F675.h	236;"	v
+pcon	C:\Program Files\SourceBoost\Include\pic12F675.h	248;"	v
+pie1	C:\Program Files\SourceBoost\Include\pic12F675.h	247;"	v
+pir1	C:\Program Files\SourceBoost\Include\pic12F675.h	238;"	v
+rLED	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	170;"	d	file:
+reset	C:\Program Files\SourceBoost\Include\boostc.h	80;"	f
+reset	C:\Program Files\SourceBoost\Include\boostc.h	92;"	f
+scn	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	81;"	v
+set_bit	C:\Program Files\SourceBoost\Include\boostc.h	23;"	d
+sleep	C:\Program Files\SourceBoost\Include\boostc.h	72;"	f
+spi_write	C:\Projects\M9_Midi\M9_MIDI_v2.0.c	232;"	f
+status	C:\Program Files\SourceBoost\Include\pic12F675.h	233;"	v
+t1con	C:\Program Files\SourceBoost\Include\pic12F675.h	241;"	v
+test_bit	C:\Program Files\SourceBoost\Include\boostc.h	24;"	d
+tmr0	C:\Program Files\SourceBoost\Include\pic12F675.h	231;"	v
+tmr1h	C:\Program Files\SourceBoost\Include\pic12F675.h	240;"	v
+tmr1l	C:\Program Files\SourceBoost\Include\pic12F675.h	239;"	v
+toggle_bit	C:\Program Files\SourceBoost\Include\boostc.h	25;"	d
+trisio	C:\Program Files\SourceBoost\Include\pic12F675.h	246;"	v
+vrcon	C:\Program Files\SourceBoost\Include\pic12F675.h	253;"	v
+wpu	C:\Program Files\SourceBoost\Include\pic12F675.h	250;"	v
